@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-visibility of logout feature</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f0339f6-8584-42d1-a8ba-0c34142e8c6d</testCaseGuid>
+</TestCaseEntity>

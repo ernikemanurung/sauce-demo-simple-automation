@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that firstname, last name, zip/postal code are mandatory field in the checkout page</description>
+   <name>TC02-verify all fields in checkout from are mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec3f88d0-cfd4-412d-9461-d9643db02331</testCaseGuid>
+</TestCaseEntity>

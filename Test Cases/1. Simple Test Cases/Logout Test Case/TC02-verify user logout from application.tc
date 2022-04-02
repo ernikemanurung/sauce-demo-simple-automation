@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-verify user logout from application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f003b21b-9e00-4c56-91e7-e57aa945cf40</testCaseGuid>
+</TestCaseEntity>

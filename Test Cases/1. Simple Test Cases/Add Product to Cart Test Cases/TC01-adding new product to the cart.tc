@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check on adding new product into the cart the count is inreasing or not</description>
+   <name>TC01-adding new product to the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23583492-d30c-4921-9b43-b4e269654426</testCaseGuid>
+</TestCaseEntity>

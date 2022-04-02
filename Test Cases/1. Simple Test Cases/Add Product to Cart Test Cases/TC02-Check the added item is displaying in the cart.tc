@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the added item is displaying in the cart</description>
+   <name>TC02-Check the added item is displaying in the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49e84964-2305-4f7b-8cbb-b6a63c84b5d8</testCaseGuid>
+</TestCaseEntity>
